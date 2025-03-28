@@ -1,1 +1,2 @@
-Feature: A new user interface that improves navigation and accessibility.
+
+Feature: This will be a new dashboard for better user management.
